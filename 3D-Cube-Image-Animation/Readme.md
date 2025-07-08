@@ -67,7 +67,7 @@ MIT License – do whatever, just credit me if you clone it for your crush.
 *Tag me if you remix this!*
 
 🚀 **Star this repo if you’d code this for someone!**
-🔗 **Live Demo:** [https://3d-cube-dev.netlify.app]serene-fudge-2b0238.netlify.app
+🔗 **Live Demo:** serene-fudge-2b0238.netlify.app
 
 ---
 
