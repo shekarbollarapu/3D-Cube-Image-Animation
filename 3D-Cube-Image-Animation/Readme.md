@@ -9,7 +9,7 @@
 - **360° Infinite Rotation**: Hypnotic spin powered by CSS/JS.
 - **Hover to Scale**: Outer cube grows on hover (because drama).
 - **Image Gallery Cube**: Each side displays custom images.
-- **"I Love You" Text**: Subtle? Nah. Bold? Always. 💌
+- **"I Love You" Text**: Always. 💌
 - **Responsive Design**: Works on screens *and* hearts.
 
 ---
@@ -82,7 +82,6 @@ MIT License – do whatever, just credit me if you clone it for your crush.
 
 - Coders: Learn CSS animations & transforms.
 - Lovers: Literally send this as a digital love letter.
-- Gen Z: Flex your "tech heartthrob" era.
 
 ---
 
